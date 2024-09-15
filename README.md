@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Natesworks</h1>
 <h3 align="center">A Software Developer from Poland</h3>
 
-- 🔭 I’m currently working on a lightweight Linux distribution for SSH access, featuring a simple text-based interface for Wi-Fi and SSH setup.
+- 🔭 I’m currently working on a lightweight Linux distribution made to be used as an SSH client, featuring a simple text-based interface for Wi-Fi and SSH setup.
 - 📫 Reach me at **contact@natesworks.com**
 
 <h3 align="left">🌐 My Website</h3>
