@@ -4,9 +4,11 @@
 - 🔭 I’m currently working on a lightweight Linux distribution made to be used as an SSH client, featuring a simple text-based interface for Wi-Fi and SSH setup.
 - 📫 Reach me at **contact@natesworks.com**
 
-<h3 align="left">🌐 My Website</h3>
+<h3 align="left">🌐 My Websites</h3>
 
 - [natesworks.com](https://natesworks.com): Find all my published and maintained projects here.
+- [download.natesworks.com](https://download.natesworks.com): Download server.
+- [brawlmods.natesworks.com](https://brawlmods.natesworks.com): Download Brawl Stars Mods.
 
 <h3 align="left">🛠 Languages and Tools</h3>
 <p align="left">
