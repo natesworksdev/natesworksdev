@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Natesworks</h1>
 <h3 align="center">A Software Developer from Poland</h3>
 
-- 🔭 I’m currently working on a [Brawl Stars Mod](dsc.gg/allbrawl) and [app store](https://github.com/flyingdiskapp).
+- 🔭 I’m currently working on a [Brawl Stars Mod](https://dsc.gg/allbrawl) and [app store](https://github.com/flyingdiskapp).
 - 📫 Reach me at **contact@natesworks.com**
 
 <h3 align="left">🌐 My Websites</h3>
